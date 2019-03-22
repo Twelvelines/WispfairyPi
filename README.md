@@ -1,5 +1,5 @@
 # WispfairyPi
-Meager scripts for enabling and disabling Raspberry Pi as eth-to-wlan bridge, solely for makeshift or conceptual purpose. Based on [the very tutorial on Raspberry Pi Documentation Website][1]. Please see the content of it for how the files should be prepared. 
+Meager scripts for enabling and disabling Raspberry Pi as eth-to-wlan bridge, solely for makeshift or conceptual purposes. Based on [the very tutorial on Raspberry Pi Documentation Website][1]. Please see the content of it for how the files should be prepared. 
 
 ## Dis(?)-features (Disclaimer)
 1. Not atomic
