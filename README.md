@@ -3,7 +3,7 @@ Meager scripts for enabling and disabling Raspberry Pi as eth-to-wlan bridge, so
 
 ## Dis(?)-features (Disclaimer)
 1. Not atomic
-2. No validation for the presumptions and intermediate results of execution
+2. No validation for any presumptions or intermediate results of execution
 3. Meager
 4. Really meager
 5. Not subject to any judging because I am a loser and noob and not good at computer and stuff (**bursts into tears**)
